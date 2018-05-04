@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b85e7dd-68e6-4c9b-a81a-4d087e65fc65" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Basket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Basket/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/ArticleDatabase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/Basket.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/BasketLineArticle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/Basket.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/Basket.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/Basket.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basket/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UnitTest1.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasketTest/UnitTest1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525438939238" expanded="true" signature="73:207" ph="{...}" />
+                <marker date="1525438939238" expanded="true" signature="118:205" ph="{...}" />
+                <marker date="1525438939238" expanded="true" signature="179:199" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasketOperation_CalculateBasketAmoutShould.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasketTest/BasketOperation_CalculateBasketAmoutShould.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <marker date="1525440444516" expanded="true" signature="8:101" ph="..." />
+                <marker date="1525440444516" expanded="true" signature="123:2040" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="202:2038" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="240:387" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="442:1782" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="468:1772" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="528:1757" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="584:1187" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="652:1165" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="759:1088" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="1243:1738" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="1310:1716" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="1417:1639" ph="{...}" />
+                <marker date="1525440444516" expanded="true" signature="1911:2023" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BasketTest/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BasketTest/BasketOperation_CalculateBasketAmoutShould.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basket/ArticleDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Basket/Class1.cs" />
+        <option value="$PROJECT_DIR$/Basket/ArticleDatabase.cs" />
+        <option value="$PROJECT_DIR$/Basket/BasketLineArticle.cs" />
+        <option value="$PROJECT_DIR$/BasketOperation_CalculateBasketAmoutShould.cs" />
+        <option value="$PROJECT_DIR$/BasketTest.csproj" />
+        <option value="$PROJECT_DIR$/BasketTest/BasketOperation_CalculateBasketAmoutShould.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Basket (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Basket (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Basket" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Basket (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="BasketTest" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b85e7dd-68e6-4c9b-a81a-4d087e65fc65" name="Default" comment="" />
+      <created>1525437383438</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525437383438</updated>
+      <workItem from="1525437388416" duration="2734000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2734000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50080776" side_tool="true" weight="0.32965517" />
+      <window_info anchor="bottom" id="Unit Tests" weight="0.32965517" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32965517" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.49919224" weight="0.32965517" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Basket/BasketLineArticle.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/obj/project.packagespec.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/obj/project.assets.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/obj/Basket.csproj.nuget.g.targets">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/obj/Basket.csproj.nuget.g.props">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasketTest.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasketOperation_CalculateBasketAmoutShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Basket/ArticleDatabase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasketTest/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525438939238" expanded="true" signature="73:207" ph="{...}" />
+            <marker date="1525438939238" expanded="true" signature="118:205" ph="{...}" />
+            <marker date="1525438939238" expanded="true" signature="179:199" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasketTest/BasketOperation_CalculateBasketAmoutShould.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <marker date="1525440444516" expanded="true" signature="8:101" ph="..." />
+            <marker date="1525440444516" expanded="true" signature="123:2040" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="202:2038" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="240:387" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="442:1782" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="468:1772" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="528:1757" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="584:1187" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="652:1165" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="759:1088" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="1243:1738" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="1310:1716" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="1417:1639" ph="{...}" />
+            <marker date="1525440444516" expanded="true" signature="1911:2023" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

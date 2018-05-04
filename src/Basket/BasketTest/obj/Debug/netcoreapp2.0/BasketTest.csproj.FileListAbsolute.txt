@@ -1,0 +1,16 @@
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.deps.json
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.json
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.dev.json
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.pdb
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.pdb
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.csproj.CoreCompileInputs.cache
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfoInputs.cache
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfo.cs
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.csproj.CopyComplete
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.dll
+/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.pdb

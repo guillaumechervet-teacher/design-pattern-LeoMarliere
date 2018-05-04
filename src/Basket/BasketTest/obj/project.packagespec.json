@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
+    "projectName": "BasketTest",
+    "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
+    "outputPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj": {
+            "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.2.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.6.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
