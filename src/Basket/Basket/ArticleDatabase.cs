@@ -2,7 +2,6 @@ namespace Basket
 {
     public struct ArticleDatabase
     {
-
         public string Id { get; set; }
         public string Label { get; set; }
         public string Category { get; set; }

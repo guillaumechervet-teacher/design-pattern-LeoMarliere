@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
+    "projectUniqueName": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
     "projectName": "Basket",
-    "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
-    "outputPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/",
+    "projectPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
+    "outputPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

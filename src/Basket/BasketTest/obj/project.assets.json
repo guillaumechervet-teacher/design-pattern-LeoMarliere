@@ -5716,17 +5716,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
+      "projectUniqueName": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
       "projectName": "BasketTest",
-      "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
+      "projectPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/BasketTest.csproj",
       "packagesPath": "/Users/Leo/.nuget/packages/",
-      "outputPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/",
+      "outputPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Leo/.config/NuGet/NuGet.Config"
+        "/Users/Leo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5737,8 +5737,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj": {
-              "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj"
+            "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj": {
+              "projectPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj"
             }
           }
         }

@@ -183,17 +183,17 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
+      "projectUniqueName": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
       "projectName": "Basket",
-      "projectPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
+      "projectPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj",
       "packagesPath": "/Users/Leo/.nuget/packages/",
-      "outputPath": "/Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/",
+      "outputPath": "/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Leo/.config/NuGet/NuGet.Config"
+        "/Users/Leo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
@@ -229,13 +229,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file /Users/Leo/Desktop/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/Basket.csproj.nuget.cache : Invalid data format."
-    }
-  ]
+  }
 }
