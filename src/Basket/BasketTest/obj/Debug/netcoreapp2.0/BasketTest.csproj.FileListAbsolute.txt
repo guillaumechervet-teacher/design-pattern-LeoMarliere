@@ -24,10 +24,10 @@
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.AssemblyInfo.cs
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.dll
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.pdb
+/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/article-database.json
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.deps.json
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.json
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/BasketTest.runtimeconfig.dev.json
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.dll
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/Basket.pdb
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/obj/Debug/netcoreapp2.0/BasketTest.csproj.CopyComplete
-/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/BasketTest/bin/Debug/netcoreapp2.0/article-database.json

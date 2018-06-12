@@ -561,7 +561,7 @@
           }
         }
       },
-      "MSTest.TestAdapter/1.2.0": {
+      "MSTest.TestAdapter/1.3.1": {
         "type": "package",
         "dependencies": {
           "NETStandard.Library": "1.6.1",
@@ -571,7 +571,7 @@
           "build/netcoreapp1.0/MSTest.TestAdapter.props": {}
         }
       },
-      "MSTest.TestFramework/1.2.0": {
+      "MSTest.TestFramework/1.3.1": {
         "type": "package",
         "compile": {
           "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {},
@@ -2352,11 +2352,12 @@
         "runtimes/win/lib/netstandard1.3/Microsoft.Win32.Registry.dll"
       ]
     },
-    "MSTest.TestAdapter/1.2.0": {
-      "sha512": "n0xgVkGNisHCHJNTfDBQBWsp3pdFMEkvex3ah7ybAa4NEIXc+rp1Kpa4tsScTNZKH0uzpR6BZ14sJvtwPm4VgQ==",
+    "MSTest.TestAdapter/1.3.1": {
+      "sha512": "/wlaxkvOC1snNN94e2DMACPsan3C0u/5hSC/zIwFM2Y8FXL2EF7gkwpGwaOGrUZZDdq49TrwtQf3oj5d5FS/Yg==",
       "type": "package",
-      "path": "mstest.testadapter/1.2.0",
+      "path": "mstest.testadapter/1.3.1",
       "files": [
+        ".signature.p7s",
         "build/_common/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll",
         "build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll",
         "build/_common/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll",
@@ -2407,15 +2408,16 @@
         "build/uap10.0/MSTest.TestAdapter.props",
         "build/uap10.0/MSTest.TestAdapter.targets",
         "build/uap10.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll",
-        "mstest.testadapter.1.2.0.nupkg.sha512",
+        "mstest.testadapter.1.3.1.nupkg.sha512",
         "mstest.testadapter.nuspec"
       ]
     },
-    "MSTest.TestFramework/1.2.0": {
-      "sha512": "8MLtlVC0UrqrMeE7V4VmSEFiApgvtUHLizJv0W1DTCOrxyY4YPhlbcClUkLtw4I5sD5P/YWP2S+rL3/MW2pM3Q==",
+    "MSTest.TestFramework/1.3.1": {
+      "sha512": "PyICX1QmF+1mgpKAuciARBOjB8HexT+38xazVWtTWqjiaIY9EyQkA2d3Np5bvgXFlzig+kIytIXwzWGxulizTw==",
       "type": "package",
-      "path": "mstest.testframework/1.2.0",
+      "path": "mstest.testframework/1.3.1",
       "files": [
+        ".signature.p7s",
         "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML",
         "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll",
         "lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML",
@@ -2506,7 +2508,7 @@
         "lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml",
         "lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml",
         "lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml",
-        "mstest.testframework.1.2.0.nupkg.sha512",
+        "mstest.testframework.1.3.1.nupkg.sha512",
         "mstest.testframework.nuspec"
       ]
     },
@@ -5697,14 +5699,14 @@
     "Basket/1.0.0": {
       "type": "project",
       "path": "../Basket/Basket.csproj",
-      "msbuildProject": "../Basket/Basket.csproj"
+      "msbuildProject": "../../../../../../3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/Basket.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Basket >= 1.0.0",
-      "MSTest.TestAdapter >= 1.2.0",
-      "MSTest.TestFramework >= 1.2.0",
+      "MSTest.TestAdapter >= 1.3.1",
+      "MSTest.TestFramework >= 1.3.1",
       "Microsoft.NET.Test.Sdk >= 15.6.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
@@ -5726,7 +5728,7 @@
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/Leo/.nuget/NuGet/NuGet.Config"
+        "/Users/Leo/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -5754,11 +5756,11 @@
         "dependencies": {
           "MSTest.TestAdapter": {
             "target": "Package",
-            "version": "[1.2.0, )"
+            "version": "[1.3.1, )"
           },
           "MSTest.TestFramework": {
             "target": "Package",
-            "version": "[1.2.0, )"
+            "version": "[1.3.1, )"
           },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",

@@ -13,5 +13,5 @@
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/Debug/netstandard2.0/Basket.AssemblyInfo.cs
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/Debug/netstandard2.0/Basket.dll
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/obj/Debug/netstandard2.0/Basket.pdb
-/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/bin/Debug/netstandard2.0/Basket.deps.json
 /Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/bin/Debug/netstandard2.0/article-database.json
+/Users/Leo/Desktop/3ème Année/Design Pattern/design-pattern-LeoMarliere/src/Basket/Basket/bin/Debug/netstandard2.0/Basket.deps.json
